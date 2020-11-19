@@ -32,7 +32,7 @@ hs_err_pid*
 *.ipr
 *.iws
 .idea/
-/out/
+out/
 .idea_modules/
 
 .DS_Store/
